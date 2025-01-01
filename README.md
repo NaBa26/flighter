@@ -35,12 +35,12 @@ Adds a new flight.
 }
 ```
 
-### PUT /flighter/api/flights/{id}
+### `PUT /flighter/api/flights/{id}`
 Updates an existing flight entry.
 
 **Request Body**: Same structure as the POST request.
 
-### DELETE /flighter/api/flights/{id}
+### `DELETE /flighter/api/flights/{id}`
 Deletes a flight by its ID.
 
 ### Technologies Used
